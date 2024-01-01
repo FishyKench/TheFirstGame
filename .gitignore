@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Dymanic/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset
+Content/Dymanic/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset
+Content/Dymanic/FirstPerson/Blueprints/BP_Weapon_Component.uasset
